@@ -1,9 +1,11 @@
 # Welcome Script
-### A small script that welcomes the currently logged in user
-### displays the current date, time and weather forecast 
-### and ends with an inspirational quote.
----
+<p> A small script that welcomes the currently logged in user <p> 
+<p>  displays the current date, time and weather forecast <p> 
+<p>  and ends with an inspirational quote. <p> 
 
+--- 
+
+![example output](Welcome.png)
 
 #### Getting started:
 - Clone the repository
